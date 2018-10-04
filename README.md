@@ -19,11 +19,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 1. finding_donors.ipynb:  the notebook that contains analysis of Census data in the US from 1994. This file includes all the code for data cleaning, visualization, model training, model tuning for prediction of donation.
 
-visuals.py
-
-2. Visualization module that contains all the code for visualizations in the notebook.
-
-Template code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+2. visuals.py: Visualization module that contains all the code for visualizations in the notebook.
 
 ### Data
 
